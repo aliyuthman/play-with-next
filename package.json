@@ -2,6 +2,7 @@
   "name": "play-with-next",
   "version": "1.0.0",
   "main": "index.js",
+  "license": "unlicensed",
   "author": "Aliyu Usman",
   "dependencies": {
     "@theme-ui/presets": "^0.3.0",
